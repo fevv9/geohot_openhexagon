@@ -39,9 +39,12 @@ But it's only up to Hexagon v5
 CodeAurora has something:
 https://portland.source.codeaurora.org/patches/quic/hexagon/
 https://portland.source.codeaurora.org/patches/quic/hexagon/4.0/
+https://portland.source.codeaurora.org/quic/sba/hexagon_patches/tree/
+https://portland.source.codeaurora.org/quic/sba/hexagon_patches/tree/4.0
 
 Most up to date linker I've found:
 https://portland.source.codeaurora.org/patches/quic/hexagon/V5/
+https://portland.source.codeaurora.org/quic/sba/hexagon_patches/tree/V5
 
 This talks about the switch to "QCLinker" based off "MCLinker" which is open source
 https://www.linuxplumbersconf.org/2015/ocw//system/presentations/3243/original/LPC2015.pdf
